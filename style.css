@@ -1,0 +1,19 @@
+body{
+  background: lightgoldenrodyellow;
+}
+h1{
+  color: red;
+  font-size: 25px;
+  padding-left: 17px;
+  font-weight: bold;
+  font-family:"Lucida Console", "Courier New", monospace;
+  background: gold;
+}
+img{
+  padding-left: 40px;
+  border-radius: 50%;
+}
+a{
+  padding-left: 140px;
+  font-size: 30px;
+}
